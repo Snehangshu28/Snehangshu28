@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snehangshu Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aling="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/103326539/230740467-5e8d0e47-ad15-4538-9509-43670cae7f3c.png)
-">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehangshu28&label=Profile%20views&color=0e75b6&style=flat" alt="snehangshu28" /> </p>
 
