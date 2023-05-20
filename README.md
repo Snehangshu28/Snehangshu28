@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehangshu28&label=Profile%20views&color=0e75b6&style=flat" alt="snehangshu28" /> </p>
-
+<img url="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 - 📫 How to reach me **snehangshu1228@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
