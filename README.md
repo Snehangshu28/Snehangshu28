@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehangshu28&label=Profile%20views&color=0e75b6&style=flat" alt="snehangshu28" /> </p>
 <img url="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*IRGHmiGsa16stedQvIaZfw.gif"></img>
 - 📫 How to reach me **snehangshu1228@gmail.com**
+<img src="https://thumbs.gfycat.com/YearlySinfulKingfisher-size_restricted.gif" width="60" style="margin-bottom:-11px;"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
