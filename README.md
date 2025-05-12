@@ -1,66 +1,61 @@
-<h1 align="center">Hi 👋, I'm Snehangshu Ghosh</h1>
-<h3 align="center">Full Stack Developer </h3>
+<h1 align="center">Hey there! 👋 I'm Snehangshu Ghosh</h1>
+<h3 align="center">🚀 Full Stack Developer @ Microace Software Consultancy</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehangshu28&label=Profile%20views&color=0e75b6&style=flat" alt="snehangshu28" />
-</p>
-
-<p align="center">
-  🚀 I build scalable web & mobile applications that solve real-world problems.<br>
-  💼 Currently working on School, Hospital, and Trading Management Systems.<br>
-  💻 Tech Stack: React.js, Node.js, Express, MongoDB, Firebase, React Native.<br>
-  📫 Reach me at: <b>snehangshu1228@gmail.com</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Web+%26+Mobile+Developer;3%2B+Years+of+Hands-on+Experience;React+%7C+Node+%7C+Firebase+%7C+MongoDB" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 💡 About Me
+
+- 🔧 Full Stack Developer specializing in **React.js**, **Node.js**, and **Firebase**
+- 🏢 Currently working at **Microace Software Consultancy**
+- 💼 Projects include **School**, **Hospital**, and **Trading Management Systems**
+- 📱 Building web and mobile apps that are **fast**, **secure**, and **user-friendly**
+- 📫 Reach me at: **snehangshu1228@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/snehangshu-ghosh-a0423a264/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/snehangshu ghosh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Tech Stack
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&style=for-the-badge&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehangshu28&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehangshu28&show_icons=true&theme=radical" alt="snehangshu28 stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehangshu28&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehangshu28&theme=radical" alt="GitHub Streak"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehangshu28&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehangshu28&" alt="GitHub Streak" /></p>
-
+---
