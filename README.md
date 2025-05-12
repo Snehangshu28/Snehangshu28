@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Snehangshu Ghosh</h1>
-<h3 align="center">🚀 Full Stack Developer @ Microace Software Consultancy</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Web+%26+Mobile+Developer;3%2B+Years+of+Hands-on+Experience;React+%7C+Node+%7C+Firebase+%7C+MongoDB" alt="Typing SVG" />
